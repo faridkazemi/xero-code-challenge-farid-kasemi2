@@ -1,0 +1,9 @@
+C:\farid\code\xero\RefactorThis2\DB\bin\Debug\netcoreapp2.2\DB.deps.json
+C:\farid\code\xero\RefactorThis2\DB\bin\Debug\netcoreapp2.2\DB.dll
+C:\farid\code\xero\RefactorThis2\DB\bin\Debug\netcoreapp2.2\DB.pdb
+C:\farid\code\xero\RefactorThis2\DB\obj\Debug\netcoreapp2.2\DB.csprojAssemblyReference.cache
+C:\farid\code\xero\RefactorThis2\DB\obj\Debug\netcoreapp2.2\DB.AssemblyInfoInputs.cache
+C:\farid\code\xero\RefactorThis2\DB\obj\Debug\netcoreapp2.2\DB.AssemblyInfo.cs
+C:\farid\code\xero\RefactorThis2\DB\obj\Debug\netcoreapp2.2\DB.csproj.CoreCompileInputs.cache
+C:\farid\code\xero\RefactorThis2\DB\obj\Debug\netcoreapp2.2\DB.dll
+C:\farid\code\xero\RefactorThis2\DB\obj\Debug\netcoreapp2.2\DB.pdb

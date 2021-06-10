@@ -1,0 +1,12 @@
+C:\farid\code\xero\RefactorThis2\DB\bin\Release\netcoreapp2.1\DB.deps.json
+C:\farid\code\xero\RefactorThis2\DB\bin\Release\netcoreapp2.1\DB.runtimeconfig.json
+C:\farid\code\xero\RefactorThis2\DB\bin\Release\netcoreapp2.1\DB.runtimeconfig.dev.json
+C:\farid\code\xero\RefactorThis2\DB\bin\Release\netcoreapp2.1\DB.dll
+C:\farid\code\xero\RefactorThis2\DB\bin\Release\netcoreapp2.1\DB.pdb
+C:\farid\code\xero\RefactorThis2\DB\obj\Release\netcoreapp2.1\DB.csprojAssemblyReference.cache
+C:\farid\code\xero\RefactorThis2\DB\obj\Release\netcoreapp2.1\DB.AssemblyInfoInputs.cache
+C:\farid\code\xero\RefactorThis2\DB\obj\Release\netcoreapp2.1\DB.AssemblyInfo.cs
+C:\farid\code\xero\RefactorThis2\DB\obj\Release\netcoreapp2.1\DB.csproj.CoreCompileInputs.cache
+C:\farid\code\xero\RefactorThis2\DB\obj\Release\netcoreapp2.1\DB.dll
+C:\farid\code\xero\RefactorThis2\DB\obj\Release\netcoreapp2.1\DB.pdb
+C:\farid\code\xero\RefactorThis2\DB\obj\Release\netcoreapp2.1\DB.genruntimeconfig.cache
